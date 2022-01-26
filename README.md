@@ -1,39 +1,14 @@
-# Fitness-Shopper
-
-
-
-
 ## Run the app locally 
 
 > - npm install
 
 > - npm start
 
-
-
-## How to Host a React Application on Firebase
-
-> - firebase login
-
-> - firebase init
-
-Now, choose the project that you have created in firebase
-
-Deploy the application locally
-
-> - npm build
-
-Its all set to deploy to firebase
-
-> - firebase deploy
-
-Hola its done... Deployed to Firebase !!!
-
-
-
-
+below are screenshot of the Application
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/64891042/151169106-53c9aaa8-90dc-4a12-bf88-39224611a11f.png)
+
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/64891042/151169171-c3cd88e1-c8cb-498c-b4ee-496b46a6cad8.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/64891042/151169181-969c560d-d827-4b7e-9ac6-2f4182754dd8.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/64891042/151169196-ecbd6338-49cd-43ce-ad6c-25e83650f2cc.png)
