@@ -1,0 +1,22 @@
+
+.home {
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto ;
+}
+
+.home__image {
+    width: 100%;
+    z-index: 0;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+.home__row {
+    display: flex;
+    z-index: 1;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgba(179, 179, 179, 0.726);
+}
+
