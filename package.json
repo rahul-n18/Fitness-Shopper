@@ -1,5 +1,5 @@
 {
-  "name": "react-amazon-clone",
+  "name": "fitness-shopper",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,10 +25,12 @@
     "react-toast-notifications": "^2.4.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "serve": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service serve",
     "eject": "react-scripts eject"
+
   },
   "eslintConfig": {
     "extends": "react-app"
